@@ -1,14 +1,14 @@
 layout_spectrum: 0.6517212325707078
-typography_spectrum: 0.7381856297142804
+typography_spectrum: 0.45118801132775843
 color:
-  brandStrength: 0.46442030905745924
-  lightness: 0.6326528249774128
-  saturation: 0.7108678380027413
-  rhythmicContrast: 0.0015897885896265507
+  brandStrength: 0.01889696205034852
+  lightness: 0.7177115548402071
+  saturation: 0.08470018580555916
+  rhythmicContrast: 0.0910679220687598
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: nest
