@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nest]]></title>
+        <description><![CDATA[nest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 20:21:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[my scandinavian home: A Swedish home with lovely details]]></title>
+            <description><![CDATA[<article><h1>my scandinavian home: A Swedish home with lovely details</h1><p>If I was looking for an apartment right now (in Gothenburg, Sweden) I'd pick this one! Not only is it an etage in an old, beautifully renovated building known as 'The Carpenter's Pride', it also has lovely details (I'm looking at you tiles, doors and wood beams!), and of course there's the calm tones throughout.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af51f1915dd6b902b53a7fa89ef960ce/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-Mw1_eJM744s%2FV7LDOGiK5II%2FAAAAAAAA-Hw%2F8fLSsF-L4dgs5tOVFaIE9FLO26H2eM4EwCLcB%2Fs1600%2F5442457.jpg"></article>]]></description>
+            <link>http://www.myscandinavianhome.com/2016/08/a-swedish-home-with-lovely-details.html</link>
+            <guid isPermaLink="false">b806a936-27ec-47ee-b777-8d3051684523</guid>
+            <pubDate>Wed, 17 Aug 2016 20:21:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
